@@ -94,7 +94,7 @@ flutter run
 ## Screenshots
 | ![img.png](img.png) | ![img_1.png](img_1.png) | ![img_2.png](img_2.png) |
 |:--------------------:|:-----------------------:|:-----------------------:|
-| Home Screen | Task Details | Create Task |
+| Home Screen | Create Task | Task Details |
 
 
 
