@@ -89,3 +89,9 @@ lib/
 flutter pub get
 flutter pub run build_runner build --delete-conflicting-outputs   # if using freezed/json
 flutter run
+
+
+![img.png](img.png) ![img_1.png](img_1.png) ![img_2.png](img_2.png)
+
+## Download APK
+[Field Task.apk](Field%20Task.apk)[Field Task.apk](build%2Fapp%2Foutputs%2Fflutter-apk%2FField%20Task.apk)
