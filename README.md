@@ -92,11 +92,10 @@ flutter pub run build_runner build --delete-conflicting-outputs   # if using fre
 flutter run
 ```
 ## Screenshots
-<p align="center">
-  ![Screenshot 1](img.png)
-  ![Screenshot 2](img_1.png)
-  ![Screenshot 3](img_2.png)
-</p>
+| ![img.png](img.png) | ![img_1.png](img_1.png) | ![img_2.png](img_2.png) |
+|:--------------------:|:-----------------------:|:-----------------------:|
+| Home Screen | Task Details | Create Task |
+
 
 
 
