@@ -44,7 +44,7 @@ Designed for an offline-first experience with **SQLite local cache**, **mock rem
 ---
 
 ## 🧱 Architecture Overview
-
+```
 lib/
 ├── core/
 │ ├── di/locator.dart # get_it setup
@@ -66,7 +66,7 @@ lib/
 │ └── routes/{app_routes.dart, route_observer.dart}
 ├── services/{auth_service.dart, location_service.dart, sync_service.dart}
 └── main.dart
-
+```
 
 ### Key Decisions
 - **Repository Pattern** for clean separation (UI ↔ Data ↔ Domain).
@@ -84,14 +84,16 @@ lib/
 - Flutter ≥ 3.27
 - Dart ≥ 3.5
 - Android SDK 33+
+- iOS 15+
 
 ```bash
 flutter pub get
 flutter pub run build_runner build --delete-conflicting-outputs   # if using freezed/json
 flutter run
-
+```
 
 ![img.png](img.png) ![img_1.png](img_1.png) ![img_2.png](img_2.png)
 
 ## Download APK
 [Field Task.apk](Field%20Task.apk)[Field Task.apk](build%2Fapp%2Foutputs%2Fflutter-apk%2FField%20Task.apk)
+
